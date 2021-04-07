@@ -40,7 +40,7 @@ header{
     height: 400px;
 }
 section img{
-    max-width: 100%;
+    max-width:100%
 }
 
 nav{
@@ -52,7 +52,7 @@ nav{
 }
 nav ul{
     white-space: nowrap;
-    max-width: 100%;
+    max-width: 1200px;
     margin: 0 auto;
 }
 nav li{
